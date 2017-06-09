@@ -6,12 +6,13 @@ Git tracks changes of files.
 fail1 sounds terrible. 
 MY stupid boss still prefers SVN.
 first github try!woah!
-<<<<<<< HEAD
-Creating a new branch is quick and simple.
+little bitch come on !
 
-=======
-Creating a new branch is quick and simple!
->>>>>>> feature1
+
+
+
+
+
 
 
 
